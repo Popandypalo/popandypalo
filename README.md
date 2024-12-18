@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/typing-anime.gif"/>
+  <img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif"/>
 </div>
 <!--
 **Popandypalo/popandypalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
