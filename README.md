@@ -1,21 +1,13 @@
-<div id="container" style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px; margin-bottom: 20px;">
-    <div id="header" style="flex: 1; padding-right: 20px;">
-      <img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif" alt="Anime gif" style="max-width: 100%; height: auto;">
-    </div>
-    
-    <div id="text" style="flex: 1;">
-      <a href="https://github.com/Popandypalo/popandypalo">
-        <img src="https://readme-typing-svg.herokuapp.com?color=white&center=true&vCenter=true&lines=Hi%2C+everybody!;I+love+coding..;anywhere%2C+anytime" alt="Typing animation">
-      </a>
-    </div>
+<div id="container" style="display: flex; align-items: center; justify-content: flex-start;">
+  <div id="header" style="flex-shrink: 0;">
+    <img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif" alt="Anime gif" style="max-width: 100%; height: auto;">
   </div>
-
-  <div id="additional-text" style="margin-top: 20px;">
-    <p>Additional text goes here, you can customize this with whatever you'd like.</p>
+  
+  <div id="text" style="margin-left: 20px;">
+    <a href="https://github.com/Popandypalo/popandypalo">
+      <img src="https://readme-typing-svg.herokuapp.com?color=white&center=true&vCenter=true&lines=Hi%2C+everybody!;I+love+coding..;anywhere%2C+anytime" alt="Typing animation">
+    </a>
   </div>
-
 </div>
 
 
