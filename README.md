@@ -5,9 +5,9 @@
 <img align="right" src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif" width=45%>
 <p><strong> — I’m a junior programmer. I study and work in the field of frontend development</strong></p>
 <ul>
-    <li style="font-size: 1.2em;">🌍 I live in Saint Petersburg, Russia.</li>
+    <li style="font-size: 1.2em;">🌍 I live in Saint Petersburg, Russia</li>
     <li style="font-size: 1.2em;">🎓 I study at ITMO University</li>
-    <li style="font-size: 1.2em;">📱 You can reach me via <a href="https://t.me/Popandypalo" style="color: #2196F3;">Telegram</a>.</li>
+    <li style="font-size: 1.2em;">📱 You can reach me via <a href="https://t.me/Popandypalo" style="color: #2196F3;">Telegram</a></li>
     <li style="font-size: 1.2em;">📧 My email: <a href="mailto:popandypaloemail@gmail.com" style="color: #2196F3;">popandypaloemail@gmail.com</a></li>
     <li style="font-size: 1.2em;">🌐 My website: <a href="https://popandypalo.ru" style="color: #2196F3;">popandypalo.ru</a></li>
 </ul>
