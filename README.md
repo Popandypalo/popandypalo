@@ -1,13 +1,11 @@
-<div id="container" style="display: flex; align-items: center;">
-  <div id="header" style="flex: 0 1 auto;">
-    <img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif" alt="Anime gif" style="max-width: 40%; height: auto;">
-  </div>
-  
-  <div id="text" style="margin-left: 20px;">
-    <a href="https://github.com/Popandypalo/popandypalo">
-      <img src="https://readme-typing-svg.herokuapp.com?color=white&center=true&vCenter=true&lines=Hi%2C+everybody!;I+love+coding..;anywhere%2C+anytime" alt="Typing animation">
-    </a>
-  </div>
+
+<img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif" alt="Anime gif" align="left" style="max-width: 130%; height: auto;">
+
+
+<div id="text" style="margin-left: 20px;">
+  <a href="https://github.com/Popandypalo/popandypalo">
+    <img src="https://readme-typing-svg.herokuapp.com?color=white&center=true&vCenter=true&lines=Hi%2C+everybody!;I+love+coding..;anywhere%2C+anytime" alt="Typing animation">
+  </a>
 </div>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
