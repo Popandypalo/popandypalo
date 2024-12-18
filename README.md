@@ -1,6 +1,6 @@
 <div id="container" style="display: flex; align-items: center;">
   <div id="header" style="flex: 0 1 auto;">
-    <img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif" alt="Anime gif" style="max-width: 100%; height: auto;">
+    <img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif" alt="Anime gif" style="max-width: 40%; height: auto;">
   </div>
   
   <div id="text" style="margin-left: 20px;">
