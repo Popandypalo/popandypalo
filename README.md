@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif" width="100"/>
 </div>
 <!--
