@@ -1,5 +1,6 @@
-[![Header](https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif)]
-
+<div id="header" align="center">
+  <img src="https://github.com/Popandypalo/popandypalo/blob/main/assets/lucky-star-anime.gif" width="100"/>
+</div>
 <!--
 **Popandypalo/popandypalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
