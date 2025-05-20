@@ -9,7 +9,7 @@
     <li style="font-size: 1.2em;">-</li>
     <li style="font-size: 1.2em;">📱 You can reach me via <a href="https://t.me/Popandypalo" style="color: #2196F3;">Telegram</a></li>
     <li style="font-size: 1.2em;">📧 My email: <a href="mailto:popandypaloemail@gmail.com" style="color: #2196F3;">popandypaloemail@gmail.com</a></li>
-    <li style="font-size: 1.2em;">🌐 My website: <a href="https://popandypalo.ru" style="color: #2196F3;">popandypalo.ru</a></li>
+    <li style="font-size: 1.2em;"></li>
 </ul>
 
 
