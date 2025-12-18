@@ -11,6 +11,7 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Popandypalo?theme=nord&font=Coming%20Soon)
+<h1></h1>
 [![MY ACTIVITY](https://github-readme-activity-graph.vercel.app/graph?username=Popandypalo&react-dark=react%20dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
