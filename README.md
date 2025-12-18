@@ -7,11 +7,9 @@
 <ul>
     <li style="font-size: 1.2em;">📱 You can reach me via <a href="https://t.me/Popandypalo" style="color: #2196F3;">Telegram</a></li>
     <li style="font-size: 1.2em;">📧 My email: <a href="mailto:popandypaloemail@gmail.com" style="color: #2196F3;">popandypaloemail@gmail.com</a></li>
-    <li style="font-size: 1.2em;"></li>
-    <li style="font-size: 1.2em;"></li>
 </ul>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
